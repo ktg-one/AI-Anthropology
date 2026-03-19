@@ -1,0 +1,21 @@
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.ext
+      - description
+      - file.ctime
+      - file.mtime
+      - file.folder
+      - file.tags
+      - Category
+    sort:
+      - property: file.ctime
+        direction: ASC
+    columnSize:
+      file.ext: 44
+      note.description: 205
+      file.folder: 206
+      file.tags: 97
+      note.Category: 113

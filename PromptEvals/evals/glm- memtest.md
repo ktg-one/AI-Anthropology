@@ -1,0 +1,11 @@
+---
+title: "Z.ai Chat - Free AI powered by GLM-4.6 & GLM-4.5"
+source: "https://chat.z.ai/c/a8e13235-9da0-44f8-88c7-3b50740ce655"
+author:
+published:
+created: 2025-11-25
+description: "Chat with Z.ai's free AI to build apps, create presentations, and write professionally. Fast, smart, and reliable, powered by GLM-4.6."
+tags:
+  - "clippings"
+---
+Here are the 10 evaluation questions—ready to copy-paste—specifically designed for validating memory recall, context continuity, and reasoning fidelity using your KTG-DIRECTIVE protocol across Perplexity Sonar or any advanced LLM session: KTG-DIRECTIVE Memory Recall Protocol: Validation & Evaluation Questions User Goal Recall: What was the primary objective or desired outcome the user was pursuing in the previous session? Critical Constraint Retention: List the main constraints or trade-offs that shaped the user's decisions during the last workflow. Expert Persona Accuracy: Which expert roles were deployed for this user and which proved most effective? Describe their core contributions. Project Continuity: Summarize the state/progress of the key project or task at the conclusion of the previous session. Methodology Preservation: What was the principal methodology or process the user used, emphasizing any distinctive strategies or patterns? Amplification Pattern Memory: Which cognitive trigger or amplification pattern led to the most recent breakthrough or insight? Meta-Learning Integrity: Identify recurring learning patterns, problem-solving approaches, or decision heuristics evident from the user's input. Next-Action Prediction: Based on session context, what is the recommended immediate next step or question for the user to maximize continuity and progress? Collaboration/Competition Style Detection: Does the user prefer competitive problem-solving among experts or collaborative synthesis? Provide examples or evidence from session history. Context Failure Mode Handling: When context loss was imminent, what specific actions were triggered by the protocol to prevent knowledge decay or reasoning errors?
